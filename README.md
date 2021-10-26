@@ -1,7 +1,7 @@
+The VBA-challenge.cls file can be opened with Visual Studio or a suitable VBA file reader. The excel files were too large for this repository and have not been included.
+
 # VBA-challenge
 # VBA Homework: The VBA of Wall Street
-
-The VBA-challenge.cls file can be opened with Visual Studio or a suitable VBA file reader
 
 ## Background
 
